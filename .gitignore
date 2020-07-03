@@ -1,0 +1,62 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug
+*.tlog
+*.idb
+*.pdb
+*.log
+*.suo
+*.db
+*.ipch
+*.opendb
+*.enc
+*.ilk
+
+# Project
+*.vcxproj.*
+
+
+.vscode/settings.json
+LintCode/ac
+LintCode/ac.dSYM/Contents/Info.plist
+LintCode/594.strStrII.dSYM/Contents/Resources/DWARF/594.strStrII
+LintCode/594.strStrII.dSYM/Contents/Info.plist
+.vscode/launch.json
+LeetCode/ac
+.vscode/tasks.json
+LeetCode/ac.dSYM/Contents/Info.plist
+LeetCode/ac.dSYM/Contents/Resources/DWARF/ac
+package.json
+package-lock.json
+node_modules/*
